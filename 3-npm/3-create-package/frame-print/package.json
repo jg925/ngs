@@ -1,0 +1,11 @@
+{
+  "name": "jg925-star-print",
+  "version": "1.0.0",
+  "description": "This package created for a course frames a string with asterisks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jg925",
+  "license": "ISC"
+}
